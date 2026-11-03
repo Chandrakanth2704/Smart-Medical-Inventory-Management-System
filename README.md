@@ -1,1 +1,1 @@
-# Smart-Medical-Inventory-Manager
+# Smart-Medical-Inventory-Management-System
