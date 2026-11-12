@@ -95,8 +95,8 @@ The application supports role-based access control with the following roles:
 
 | Team Member | SRN | Role |
 |---|---|---|
-| Deekshith Gowda G | PES1UG24CS142 | Database Design and Backend Development |
-| Chandrakanth V G | PES1UG25CS810 | Frontend Development and Database Integration |
+| Deekshith Gowda G | PES1UG24CS142 | Frontend Development |
+| Chandrakanth V G | PES1UG25CS810 |  Database Design, Backend Development and Database Integration |
 
 ### 1. Deekshith Gowda G — PES1UG24CS142
 
